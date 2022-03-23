@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f846d45c-365a-48d8-87ee-cd3737648cab" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/chapter_3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pakage_3/project_text_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_1/page1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_1/page1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/page1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_2/page1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/sdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_2/sdf" afterDir="false" />
-    </list>
+    <list default="true" id="f846d45c-365a-48d8-87ee-cd3737648cab" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
